@@ -1,6 +1,6 @@
 # Manual de montagem — Caixa mecânica com engrenagens
 
-Projeto da atividade prática do **Project-based Maker Lab** (Profª Gedeane).
+Projeto da atividade prática do **Project-based Maker Lab** (Prof.ª Gedeane).
 
 Contato: **profgedeane.kenshima@fiap.com.br**
 
@@ -66,7 +66,7 @@ Montar e medir as peças para entender como funciona o conjunto mecânico da cai
 Preencha a tabela abaixo com os valores medidos pelo grupo.
 
 | Medida | Valor (mm) | Observação |
-|---|:---:|---|
+|:---|:---:|:---|
 | Espessura da tampa |  |  |
 | Diâmetro dos furos da caixa |  |  |
 | Diâmetro dos eixos |  |  |
