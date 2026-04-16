@@ -6,7 +6,8 @@ Projeto desenvolvido para a disciplina **Project-based Maker Lab**, ministrada p
 1. Caique Walter - RM: 550693
 2. Guilherme Espim - RM: 99499
 3. Guilherme Nobre - RM: 98604
-4. Matheus Costa - RM: 551157
+4. João Paulo F. - RM: 99279
+5. Matheus Costa - RM: 551157
 
 ---
 
